@@ -1,5 +1,13 @@
 # DKtz9FqVnawRY1f3kY7aqA3oefFJqH9nup28Nh8VCAi3 DevNet Pub
 
+For Solana Program
+https://github.com/enyares/solodororust
+
+For NFT minting
+
+https://github.com/enyares/solodoroNFT
+
+
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
 
