@@ -1,4 +1,4 @@
-# buildspace Solana GIF Portal Project
+# DKtz9FqVnawRY1f3kY7aqA3oefFJqH9nup28Nh8VCAi3 DevNet Pub
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
